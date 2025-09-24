@@ -1,0 +1,8 @@
+streamlit
+plotly
+langdetect
+python-dotenv
+google-generativeai
+pypdfium2
+python-docx
+fpdf
